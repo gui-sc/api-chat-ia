@@ -1,0 +1,13 @@
+id_produto,nome_produto,categoria,quantidade,preco_unitario,fornecedor
+1,Arroz,Grãos,250,23.90,Arroz Bom Sabor LTDA
+2,Feijão,Grãos,180,9.80,Leguminosas Brasil
+3,Açúcar,Açúcar,300,4.99,DoceVida Distribuidora
+4,Óleo de Soja,Óleos,120,6.89,Olé Brasil Alimentos
+5,Leite Integral,Laticínios,200,4.50,Laticínios Santa Luzia
+6,Farinha de Trigo,Farinhas,150,3.20,Moinho Real
+7,Macarrão Espaguete,Massas,170,4.99,Massas Vitória
+8,Biscoito Cream Cracker,Biscoitos,90,6.50,Biscoitos São João
+9,Café Torrado e Moído,Bebidas,140,14.00,Cafés União
+10,Sal Refinado,Temperos,230,2.99,Salinas do Sul
+11,Maçã,Frutas,300,3.50,Hortifruti Verde Vida
+12,Banana,Frutas,250,2.50,Hortifruti Tropical

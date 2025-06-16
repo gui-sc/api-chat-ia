@@ -1,0 +1,16 @@
+cidade,estado,tempo_entrega_min_dias,tempo_entrega_max_dias,transportadora
+Criciúma,SC,1,2,TransSul
+Florianópolis,SC,2,3,Rápido Oeste
+Joinville,SC,2,4,TransSul
+Porto Alegre,RS,3,5,Transportes Gaúcha
+Blumenau,SC,2,3,Expresso Norte
+Chapecó,SC,2,4,TransSul
+Curitiba,PR,3,5,TransParaná
+Balneário Camboriú,SC,2,3,Rápido Oeste
+Itajaí,SC,2,3,Expresso Norte
+Lages,SC,2,4,TransSul
+São José,SC,2,3,Rápido Oeste
+Palhoça,SC,2,3,Rápido Oeste
+Tubarão,SC,1,2,TransSul
+Araranguá,SC,1,2,TransSul
+Brusque,SC,2,3,Expresso Norte
